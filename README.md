@@ -11,3 +11,5 @@ documenti per la formazione gestione e conservazione del documento informatico
 
 ## Formazione, gestione e conservazione dei documenti informatici 
 (corso FormezPA 2023)
+
+- [W1 Formez_Vadecum-implementazione LG_documento-informatico-AgID-Avena](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/documento-informatico/raw/main/Corso_FormezPA-LG-formazione-gestione-conservazione-documento-informatico-edizione_2023/materiali-webinar-1_02_2023/W1%20Formez_Vadecum-implementazione%20LG_documento-informatico-AgID-Avena.pdf)
