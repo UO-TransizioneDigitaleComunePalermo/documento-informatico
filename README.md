@@ -9,7 +9,7 @@ documenti per la formazione gestione e conservazione del documento informatico
 - [Ebook Linee Guida AgID aggiornate al 2022 sul documento informatico - a cura di D-Groove](https://f0a1f.img.musvc3.net/static/60116/documenti/1/Ebook-Linee-guida-2022.pdf)
 
 
-## Formazione, gestione e conservazione dei documenti informatici 
+## Formazione, gestione e conservazione dei documenti informatici (FormezPA 2023)
 (corso FormezPA 2023)
 
 - [W1 Formez_Vadecum-implementazione LG_documento-informatico-AgID-Avena](https://github.com/UO-TransizioneDigitaleComunePalermo/documento-informatico/raw/main/Corso_FormezPA-LG-formazione-gestione-conservazione-documento-informatico-edizione_2023/materiali-webinar-1_02_2023/W1%20Formez_Vadecum-implementazione%20LG_documento-informatico-AgID-Avena.pdf)
